@@ -1,0 +1,1 @@
+this is a just a simple platform for meeting people.
